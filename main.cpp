@@ -97,7 +97,7 @@ int main(/*int argc, char* argv[]*/) {
     glEnable(GL_DEPTH_TEST);
 
     //std::string basePath = "/Users/jingpeilu/Downloads/rgbd-scenes-v2/imgs/scene_06/";
-    std::string basePath = "/Users/jingpeilu/Desktop/research/data/depth1/";
+    std::string basePath = "/home/jingpei/Desktop/depth1/";
     //std::string basePath = "/Users/jingpeilu/Desktop/research/data/depth1/";
 
     //

@@ -70,3 +70,4 @@ add_subdirectory(Utilities/lodepng)
 add_executable(Fusion main.cpp fusion.cpp fusion.h renderEngine.cpp renderEngine.h utilities.h Utilities/image_utilities.h Utilities/image_utilities.cpp inputStream.cpp inputStream.h computeEngine.cpp computeEngine.h GPUBuffer.cpp GPUBuffer.h libs.h)
 
 target_link_libraries(Fusion LODEPNG ${MyLibList})
+
